@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Prudencio;I'm+18+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?&username=Math3uz7&bg_color=64b5f6&color=2ec4b6&line=2ec4b6&point=c77dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?&username=Math3uz7&bg_color=b298dc&color=2ec4b6&line=b298dc&point=c77dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Math3uz7&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uz7&layout=compact&theme=tokyonight)
