@@ -1,12 +1,6 @@
 ### Hello guys ! I'm Matheus Prudencio , This is my portfolio
 
-  
-  ##
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ec4b6&height=120&section=header"/>
-
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=### Hello guys ! I'm Matheus Prudencio , This is my portfolio
 
   
   ##
