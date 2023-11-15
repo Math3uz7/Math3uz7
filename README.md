@@ -34,15 +34,6 @@
   
   
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#400040&height=120&section=footer"/>
-
-&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Math3uz7&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uz7&layout=compact&theme=tokyonight)
- 
 
 
 
