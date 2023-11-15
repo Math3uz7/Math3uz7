@@ -47,7 +47,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ec4b6&height=120&section=footer"/>&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Prudencio;I'm+18+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?&username=Math3uz7&bg_color=e0aaff&color=480ca8&line=240046&point=c77dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
