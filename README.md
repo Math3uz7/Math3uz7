@@ -8,7 +8,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?&username=Math3uz7&bg_color=231942&color=2ec4b6&line=b298dc&point=231942&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-                                                                                                                                                              
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uz7&layout=compact&langs_count=7&theme=tokyonight"/>
+                                                                                                                                                            
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Math3uz7&show_icons=true&theme=tokyonight)
 
   
