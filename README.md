@@ -4,6 +4,7 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Prudencio;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%99)](https://git.io/typing-svg)
+<img width=100% src="banner"/>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?&username=Math3uz7&bg_color=231942&color=2ec4b6&line=b298dc&point=231942&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
