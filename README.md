@@ -3,7 +3,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Prudencio;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Matheus+Prudencio;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!)](https://git.io/typing-svg)
 <img width=100% src="banner"/>
 
 
