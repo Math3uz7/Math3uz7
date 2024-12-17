@@ -49,6 +49,7 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Math3uz7}/count.svg" /></p> 
+<img src="https://raw.githubusercontent.com/Math3uz7/Math3uz7/output/snake.svg" alt="Snake animation" />
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ec4b6&height=120&section=footer"/>
